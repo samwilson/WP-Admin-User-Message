@@ -1,6 +1,6 @@
 === Admin User Message ===
 Contributors:      jonathanbardo
-Tags:              admin, message
+Tags:              admin, message, messages, admin message, admin messages
 Requires at least: 4.2
 Tested up to:      4.4
 Stable tag:        trunk
